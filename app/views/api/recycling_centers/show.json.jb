@@ -1,0 +1,8 @@
+{
+
+  id: @recycling_center.id,
+  name: @recycling_center.name,
+  address: @recycling_center.address,
+  phone_number: @recycling_center.phone_number
+
+}
